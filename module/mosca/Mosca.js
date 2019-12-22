@@ -1,0 +1,11 @@
+
+class Mosca {
+
+    constructor() {
+        
+    }
+
+    init() {
+
+    }
+}
